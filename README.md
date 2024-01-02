@@ -36,28 +36,28 @@
     - R-Square (Test) = 0.92
 
 #### Top 10 Significant Features for Ridge
-OverallQual_9
-GrLivArea
-OverallQual_8
-Exterior1st_BrkFace
-Functional_Typ
-OverallCond_9
-Neighborhood_Crawfor
-SaleCondition_Alloca
-TotalBsmtSF
-Neighborhood_StoneBr
+* OverallQual_9
+* GrLivArea
+* OverallQual_8
+* Exterior1st_BrkFace
+* Functional_Typ
+* OverallCond_9
+* Neighborhood_Crawfor
+* SaleCondition_Alloca
+* TotalBsmtSF
+* Neighborhood_StoneBr
 
 #### Top 10 Significant Features for Lasso
-OverallQual_9
-OverallQual_8
-SaleCondition_Alloca
-GrLivArea
-Exterior1st_BrkFace
-OverallCond_9
-Neighborhood_Crawfor
-Functional_Typ
-KitchenAbvGr_1
-GarageQual_Gd
+* OverallQual_9
+* OverallQual_8
+* SaleCondition_Alloca
+* GrLivArea
+* Exterior1st_BrkFace
+* OverallCond_9
+* Neighborhood_Crawfor
+* Functional_Typ
+* KitchenAbvGr_1
+* GarageQual_Gd
 
 
 ## Libraries Used
